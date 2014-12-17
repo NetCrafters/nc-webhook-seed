@@ -1,0 +1,25 @@
+{
+  "name": "nc-wh-seed",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@git.netcrafters.com/nc-wh-seed.git"
+  },
+  "devEnv": {
+    "destination": "./build",
+    "source": "./src",
+    "webhook": ".."
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-clean": "0.5.x",
+    "grunt-contrib-copy": "0.4.x",
+    "grunt-contrib-less": "^0.12.0",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-watch": "~0.4.3",
+    "grunt-prettify": "~0.3.4",
+    "grunt-sass": "^0.17.0",
+    "matchdep": "^0.3.0",
+    "uglify-save-license": "~0.2.1"
+  }
+}
