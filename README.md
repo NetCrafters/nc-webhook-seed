@@ -6,10 +6,14 @@ It does not follow theming methods outlined in the Webhook documentation.
 
 It was created in order to support our existing development workflow and client processes at NetCrafters.
 
+## Requirements
+
+You must have a webhook site installed.
+
 ## Installation
 
 * Be in your webhook site's folder
-* Download this repo: ```curl -O https://github.com/NetCrafters/nc-webhook-seed/archive/master.zip```
+* Download this repo: ```wget https://github.com/NetCrafters/nc-webhook-seed/archive/master.zip```
 * Unzip: ```unzip master.zip```
 * Install dependencies:
   * ```# cd nc-webhook-seed```
