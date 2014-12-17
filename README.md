@@ -1,4 +1,5 @@
 # NetCrafters Webhook Seed
+#### An add-on stand-alone "theme" manager for use with the Webhook CMS platform.
 
 The intent of this repo is to provide a stand-alone method to maintain and re-use layout/style themes within [Webhook](http://webhook.com).
 
