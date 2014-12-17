@@ -4,6 +4,8 @@ The intent of this repo is to provide a stand-alone method to maintain and re-us
 
 It does not follow theming methods outlined in the Webhook documentation.
 
+It was created in order to support our existing development workflow and client processes at NetCrafters.
+
 ## Installation
 
 * Be in your webhook site's folder
@@ -45,6 +47,6 @@ The directory structure is preserved from the source folders. After the copy to 
 ## Planned Improvements
 
 * Create a data-master partial example
-* Integrate re-usable content-type installation. This will require changes within Webhook. 
+* Integrate re-usable content-type installation. This will require changes within Webhook (I may look into this change myself - DK.)
 
 
