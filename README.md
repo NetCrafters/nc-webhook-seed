@@ -31,7 +31,7 @@ Now, login to your Webhook CMS and start creating some content types. If you all
 
 ## Watchers
 
-Grunt will watch for changes in nc-webhook-seed the following folders:
+Grunt will watch for file changes in nc-webhook-seed in the following folders:
 
 * images
 * javascript 
