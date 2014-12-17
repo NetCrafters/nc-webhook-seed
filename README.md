@@ -9,6 +9,9 @@ It does not follow theming methods outlined in the Webhook documentation.
 * Be in your webhook site's folder
 * Download this repo: ```curl -O https://github.com/NetCrafters/nc-webhook-seed/archive/master.zip```
 * Unzip: ```unzip master.zip```
+* Install dependencies:
+  * ```# cd nc-webhook-seed```
+  * ```# npm install && bower install```
 
 ## Usage from Shell
 
