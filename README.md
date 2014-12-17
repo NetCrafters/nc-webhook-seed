@@ -20,20 +20,31 @@ It does not follow theming methods outlined in the Webhook documentation.
 * ```# cd nc-webhook-seed```
 * ```# grunt```
 
-Grunt will watch for changes in the following folders:
+Now, login to your Webhook CMS and start creating some content types. If you allow the CMS to create your scaffolding, you can use those as starting points for template development within nc-webhook-seed -- just make sure you preserve the hiearchy.
 
-* javascript
-* scss
+## Watchers
+
+Grunt will watch for changes in nc-webhook-seed the following folders:
+
+* images
+* javascript 
+* scss 
 * less
 * templates
 * pages
 
-After a change is detected, a build process is triggered and the final files are copied to Webhook (at this point, Webhook's simple-watch task will be triggered, as normal.)
+After a change is detected, a build process is triggered and the final files are copied to Webhook. The ```scss``` and ```less``` files are proprocessed as necessary and a ```main.css``` and ``print.css`` is generated and copied to the Webhook ```static``` folder. The ```images``` content is copied as is to the Webhook ```static``` folder. The ```templates``` and ```pages``` folder content are copied as is to Webhook proper.
 
-This should also work with the Webhook UI.
+The directory structure is preserved from the source folders. After the copy to Webhook proper, Webhook's simple-watch task will be triggered, as normal.
+
+## Warnings
+
+* The watchers *will* overwrite templates and pages in your webhook folder if the structure/files exist in nc-webhook-seed
+* This has not been tested with the standalone Webhook Application, but I see no reason why it shouldn't work the same.
 
 ## Planned Improvements
 
+* Create a data-master partial example
 * Integrate re-usable content-type installation. This will require changes within Webhook. 
 
 
