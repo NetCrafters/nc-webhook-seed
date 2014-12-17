@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git@git.netcrafters.com/nc-wh-seed.git"
+    "url": "git@github.com/NetCrafters/nc-wh-seed.git"
   },
   "devEnv": {
     "destination": "./build",
