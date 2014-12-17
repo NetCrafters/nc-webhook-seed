@@ -21,10 +21,8 @@ You must have a webhook site installed.
 
 ## Usage from Shell
 
-* ```# cd webhook-site```
-* ```# grunt```
-* ```# cd nc-webhook-seed-master```
-* ```# grunt```
+* Change into your webhook site's folder and start the local webhook server: ```grunt```
+* Change into the nc-webhook-seed folder and start its watchers: ```grunt```
 
 Now, login to your Webhook CMS and start creating some content types. If you allow the CMS to create your scaffolding, you can use those as starting points for template development within nc-webhook-seed -- just make sure you preserve the hiearchy.
 
