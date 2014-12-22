@@ -1,0 +1,1136 @@
+{
+  "data": {
+    "galleries": {
+      "-JdYT3wFuodjiNl9G2Oy": {
+        "_sort_create_date": 1419007980,
+        "_sort_last_updated": 1419007980,
+        "_sort_publish_date": 1419007980,
+        "create_date": "2014-12-19T11:53:00-05:00",
+        "images": [
+          {
+            "caption": "Deufol",
+            "image": {
+              "height": 410,
+              "resize_url": "http://lh5.ggpht.com/OIRP_SU12KfSFFeyqvVx-h2n1dEJlKsiozbmJmn4-XBXh5vyAsBXC_PxReX92cGQaaZuucOOBmZOBkMuXaTJ-W1TSTaJMg",
+              "size": 368340,
+              "type": "image/png",
+              "url": "/webhook-uploads/1419007972257_Screen%20Shot%202014-12-02%20at%204.55.59%20PM.png",
+              "width": 531
+            },
+            "link": "http://www.netcrafters.com",
+            "title": "Image 1"
+          }
+        ],
+        "last_updated": "2014-12-19T11:53:00-05:00",
+        "name": "RBW Gallery",
+        "preview_url": "17bda3c8-8d66-0b50-a0bd-55c40815fadf",
+        "publish_date": "2014-12-19T11:53:00-05:00"
+      }
+    },
+    "images": {
+      "-JdYOPbMyopJLe_qD-Ts": {
+        "_sort_create_date": 1419006780,
+        "_sort_last_updated": 1419007140,
+        "_sort_publish_date": 1419007140,
+        "create_date": "2014-12-19T11:33:00-05:00",
+        "image": {
+          "height": 440,
+          "resize_url": "http://lh6.ggpht.com/DTZO885NMA7o6xuCLzIMyaFdff0tz_aCG46wH0WG2jO1t2e17CTGodBcN04DuCbbb4iDkcfdrHFP26Yft7ijDxV9PjXW",
+          "url": "/webhook-uploads/1419006794565_3-up-macs.jpg",
+          "width": 1600
+        },
+        "last_updated": "2014-12-19T11:39:00-05:00",
+        "name": "3-Up Macs",
+        "pages_features_image": [
+          "pages -JdYODQJdROPGu-5EpW-"
+        ],
+        "preview_url": "09e96d81-47a4-bfac-6825-ee7631bf14dc",
+        "publish_date": "2014-12-19T11:39:00-05:00"
+      }
+    },
+    "menus": {
+      "-Jdi_xSgcOjJOZXqq72o": {
+        "_sort_create_date": 1419194640,
+        "_sort_last_updated": 1419194940,
+        "_sort_publish_date": 1419194640,
+        "children": [
+          "menus -JdiaWR1B3gwNfG-9xfS",
+          "menus -Jdib13doRa4GvAjUiBP"
+        ],
+        "create_date": "2014-12-21T15:44:00-05:00",
+        "isDraft": false,
+        "last_updated": "2014-12-21T15:49:00-05:00",
+        "level": "First",
+        "mobile_title": "",
+        "name": "About Us",
+        "preview_url": "4b3149bc-2933-d5e2-c41e-dd00f3aed48c",
+        "publish_date": "2014-12-21T15:44:00-05:00",
+        "sort": 1,
+        "url": "#"
+      },
+      "-JdiaF1jCAg_IlOCG0Cu": {
+        "_sort_create_date": 1419194700,
+        "_sort_last_updated": 1419194700,
+        "_sort_publish_date": 1419194700,
+        "create_date": "2014-12-21T15:45:00-05:00",
+        "last_updated": "2014-12-21T15:45:00-05:00",
+        "level": "First",
+        "name": "What We Do",
+        "preview_url": "10469eea-2133-e5a2-f9a3-0bc97bc4448d",
+        "publish_date": "2014-12-21T15:45:00-05:00",
+        "sort": 2,
+        "url": "#"
+      },
+      "-JdiaPlVeDyl4LbZPpcF": {
+        "_sort_create_date": 1419194760,
+        "_sort_last_updated": 1419195060,
+        "_sort_publish_date": 1419194760,
+        "children": [
+          "menus -Jdiaw_q3TWQOlaEWKRy"
+        ],
+        "create_date": "2014-12-21T15:46:00-05:00",
+        "isDraft": false,
+        "last_updated": "2014-12-21T15:51:00-05:00",
+        "level": "First",
+        "name": "Contact Us",
+        "preview_url": "58314886-bd5d-9f75-1321-92f735ec0b66",
+        "publish_date": "2014-12-21T15:46:00-05:00",
+        "sort": 3,
+        "url": "#"
+      },
+      "-JdiaWR1B3gwNfG-9xfS": {
+        "_sort_create_date": 1419194760,
+        "_sort_last_updated": 1419194760,
+        "_sort_publish_date": 1419194760,
+        "children": [
+          "menus -Jdi_xSgcOjJOZXqq72o"
+        ],
+        "create_date": "2014-12-21T15:46:00-05:00",
+        "last_updated": "2014-12-21T15:46:00-05:00",
+        "level": "Second",
+        "name": "Our Staff",
+        "preview_url": "f48445b6-2823-fdb3-d103-4ddf94c65ebc",
+        "publish_date": "2014-12-21T15:46:00-05:00",
+        "url": "#"
+      },
+      "-Jdiaw_q3TWQOlaEWKRy": {
+        "_sort_create_date": 1419194880,
+        "_sort_last_updated": 1419194880,
+        "_sort_publish_date": 1419194880,
+        "children": [
+          "menus -JdiaPlVeDyl4LbZPpcF"
+        ],
+        "create_date": "2014-12-21T15:48:00-05:00",
+        "last_updated": "2014-12-21T15:48:00-05:00",
+        "level": "Second",
+        "name": "Get in Touch",
+        "preview_url": "581131d8-e366-818b-e212-caf0b3f8318d",
+        "publish_date": "2014-12-21T15:48:00-05:00",
+        "url": "#"
+      },
+      "-Jdib13doRa4GvAjUiBP": {
+        "_sort_create_date": 1419194880,
+        "_sort_last_updated": 1419194880,
+        "_sort_publish_date": 1419194880,
+        "children": [
+          "menus -Jdi_xSgcOjJOZXqq72o"
+        ],
+        "create_date": "2014-12-21T15:48:00-05:00",
+        "last_updated": "2014-12-21T15:48:00-05:00",
+        "level": "Second",
+        "name": "Careers",
+        "preview_url": "065102e8-73ab-419a-b19a-13a41ea98283",
+        "publish_date": "2014-12-21T15:48:00-05:00",
+        "url": "#"
+      }
+    },
+    "meta": {
+      "_sort_create_date": 1419006420,
+      "_sort_last_updated": 1419183780,
+      "create_date": "2014-12-19T11:27:00-05:00",
+      "last_updated": "2014-12-21T12:43:00-05:00",
+      "name": "Meta",
+      "preview_url": "00c5f04b-d9a1-6000-9cae-bab247214e8f"
+    },
+    "pages": {
+      "-JdYODQJdROPGu-5EpW-": {
+        "_sort_create_date": 1419006720,
+        "_sort_last_updated": 1419120780,
+        "_sort_publish_date": 1419010200,
+        "blocks": [
+          {
+            "content": "<p>The definition for Content Management System (CMS), didn't exist when we started in 1995. We knew from the start that it would be important for customers to manage their own web content. That's why we built our business on helping customers manage their own message.</p>",
+            "image": {
+              "height": 100,
+              "resize_url": "http://lh3.ggpht.com/Q81Pvr85y4orE6JZYLgMVNGfezlLkMtS7LC76G6qiy9AFeRxenL6cvHwBXtdItv9KZLqDmgFbPeX4AZHN17PU3z2rj_j",
+              "url": "/webhook-uploads/1419006995861_icon_cms.png",
+              "width": 100
+            },
+            "link": "",
+            "title": "Content Management"
+          },
+          {
+            "content": "<p>We build every site with integrated content management tools, cusomized for the management and marketing goals of the project. Fundamental features and capabilities of every NetCrafters website begin with these, as a solid foundation for professional, easily managed success.</p>",
+            "image": {
+              "height": 100,
+              "resize_url": "http://lh6.ggpht.com/iS0ZAPD36HdDVYuki2VKyUGSlJ0LXvuvMk7MjYG0JoRxlHMTJMNl56go9if4RwSakimT-JxWyuTSNgbeFxxsO8y-DB8yig",
+              "url": "/webhook-uploads/1419007039692_icon_nc3_process.png",
+              "width": 100
+            },
+            "title": "Design, Develop, Manage"
+          },
+          {
+            "content": "<p>NetCrafters provides hosting for all the projects we produce. When we started the business, our primary focus was design and programming. It wasn't long before we found our customers trusted us to know everything about their sites, including the servers and hosting.</p>",
+            "image": {
+              "height": 100,
+              "resize_url": "http://lh6.ggpht.com/cPZ9teQprhChB7hkh-WDTnOhVKV0kEpaPF5WngZJrx1rFp3gfl9dgEUMPZ7yRi3QqyovYJ_pLCUtPYNDCo0sl7pzQgA",
+              "url": "/webhook-uploads/1419007070953_icon_host.png",
+              "width": 100
+            },
+            "title": "Expert Web Hosting"
+          },
+          {
+            "content": "<p>There are many voices on the subject of Search Engine Optimization (SEO). Some tell you that there are secrets and insider’s tips you must learn in order be found in Google. Our experience has shown that it's more common sense than mystery, and we have a growing list of successful customers to prove it.</p>",
+            "image": {
+              "height": 100,
+              "resize_url": "http://lh6.ggpht.com/oGeUwY2xQy52ZXI0mz5BuFUZySp6zDGQvVW7mHMteisvt4Kh4D1fZe6qHZQFNCL5gzo4tP1bfOLBS2K7cKImBJYd7VEJ",
+              "url": "/webhook-uploads/1419007095958_icon_seo.png",
+              "width": 100
+            },
+            "title": "Search Engine Ranking"
+          },
+          {
+            "content": "<p>Send out custom designed email newsletters delivered directly to your target market, with complete tracking of delivery. We design the stationery for you to make sure it looks just like your website and creates instant recognition.</p>",
+            "image": {
+              "height": 100,
+              "resize_url": "http://lh4.ggpht.com/qCZ-tPI2OD0hzEyblDr9pJxCxF5y8y4f5Uv9Kp-ylL0GrDQhsI0QSzu9gLEKovQib2YFuWYlPZ8rX2R_FVf9PKv68yvd",
+              "url": "/webhook-uploads/1419007133583_icon_emailmarket.png",
+              "width": 100
+            },
+            "title": "Email Marketing Tools"
+          }
+        ],
+        "content": "<p>A professional, successful web site requires a solid foundation and expert features, including up to date designs, current coding technologies, browser compatibility, ease of use and interactivity that invites and facilitates visitor engagement. Here's a list of key features for content management and interactivity, which we build into every professional website.</p>",
+        "create_date": "2014-12-19T11:32:00-05:00",
+        "featured_image": "images -JdYOPbMyopJLe_qD-Ts",
+        "isDraft": false,
+        "last_updated": "2014-12-20T19:13:00-05:00",
+        "menus_page": [
+          "menus -JdZIn1BBgxhvSnuxlA4"
+        ],
+        "name": "Web Development Work",
+        "page_layout": "layout.html",
+        "preview_url": "8b56b505-20be-4c77-0338-d58a302f8659",
+        "publish_date": "2014-12-19T12:30:00-05:00",
+        "subtitle": "Consulting, Design, Programming, Hosting, Support, and SEO",
+        "title": "We design & develop websites"
+      }
+    },
+    "widgets": {
+      "-JdYiy25Jb47HoNghZrv": {
+        "_sort_create_date": 1419012420,
+        "_sort_last_updated": 1419012420,
+        "_sort_publish_date": 1419012420,
+        "content": "<p>This is the page footer.</p>",
+        "create_date": "2014-12-19T13:07:00-05:00",
+        "last_updated": "2014-12-19T13:07:00-05:00",
+        "name": "Footer",
+        "preview_url": "b99df864-0da4-ec66-e073-327cc3915f04",
+        "publish_date": "2014-12-19T13:07:00-05:00"
+      },
+      "-JdYj1TdICoQ3Rmj83jo": {
+        "_sort_create_date": 1419012480,
+        "_sort_last_updated": 1419012480,
+        "_sort_publish_date": 1419012480,
+        "content": "<p>This is the header.</p>",
+        "create_date": "2014-12-19T13:08:00-05:00",
+        "last_updated": "2014-12-19T13:08:00-05:00",
+        "name": "Header",
+        "preview_url": "23cacdb6-75f0-794b-e34d-9cfe2d9e46a4",
+        "publish_date": "2014-12-19T13:08:00-05:00"
+      }
+    }
+  },
+  "settings": {
+    "general": {
+      "analytics_id": "",
+      "site_description": "This site is for developing exemplar content types for use with the Webhook CMS.",
+      "site_name": "NetCrafters Content Seed",
+      "site_url": "http://wh-seed.netcrafters.com"
+    }
+  },
+  "contentType": {
+    "galleries": {
+      "controls": [
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "Name",
+          "locked": true,
+          "name": "name",
+          "required": true,
+          "showInCms": true
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Create Date",
+          "locked": true,
+          "name": "create_date",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Last Updated",
+          "locked": true,
+          "name": "last_updated",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Publish Date",
+          "locked": true,
+          "name": "publish_date",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "grid",
+          "controls": [
+            {
+              "controlType": "textfield",
+              "hidden": false,
+              "label": "Title",
+              "locked": false,
+              "name": "title",
+              "required": false,
+              "showInCms": true
+            },
+            {
+              "controlType": "image",
+              "hidden": false,
+              "label": "Image",
+              "locked": false,
+              "name": "image",
+              "required": false,
+              "showInCms": true
+            },
+            {
+              "controlType": "textarea",
+              "hidden": false,
+              "label": "Caption",
+              "locked": false,
+              "name": "caption",
+              "required": false,
+              "showInCms": true
+            },
+            {
+              "controlType": "url",
+              "help": "Optional outbound URL",
+              "hidden": false,
+              "label": "Link",
+              "locked": false,
+              "name": "link",
+              "required": false,
+              "showInCms": false
+            }
+          ],
+          "hidden": false,
+          "label": "Images",
+          "locked": false,
+          "name": "images",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "relation",
+          "hidden": false,
+          "label": "Pages (Galleries)",
+          "locked": false,
+          "meta": {
+            "contentTypeId": "pages",
+            "reverseName": "galleries"
+          },
+          "name": "pages_galleries",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Preview URL",
+          "locked": true,
+          "name": "preview_url",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Slug",
+          "locked": true,
+          "name": "slug",
+          "required": false,
+          "showInCms": false
+        }
+      ],
+      "individualMD5": "c3faf9f0f7a80ef8cbe03c980016b6ed",
+      "listMD5": "350dc3cdddaa0b3a4b41e3832ebadcd0",
+      "name": "Galleries",
+      "oneOff": false
+    },
+    "images": {
+      "controls": [
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "Name",
+          "locked": true,
+          "name": "name",
+          "required": true,
+          "showInCms": true
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Create Date",
+          "locked": true,
+          "name": "create_date",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Last Updated",
+          "locked": true,
+          "name": "last_updated",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Publish Date",
+          "locked": true,
+          "name": "publish_date",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "image",
+          "hidden": false,
+          "label": "Image",
+          "locked": false,
+          "name": "image",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textarea",
+          "hidden": false,
+          "label": "Caption",
+          "locked": false,
+          "name": "caption",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "url",
+          "help": "Outbound link",
+          "hidden": false,
+          "label": "Link",
+          "locked": false,
+          "name": "link",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "relation",
+          "hidden": false,
+          "label": "Pages (Features Image)",
+          "locked": false,
+          "meta": {
+            "contentTypeId": "pages",
+            "reverseName": "featured_image"
+          },
+          "name": "pages_features_image",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Preview URL",
+          "locked": true,
+          "name": "preview_url",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Slug",
+          "locked": true,
+          "name": "slug",
+          "required": false,
+          "showInCms": false
+        }
+      ],
+      "individualMD5": "f341f640fc59993a811d14038443aa9b",
+      "listMD5": "b794eef9d715288f3baf4f66fc619553",
+      "name": "Images",
+      "oneOff": false
+    },
+    "menus": {
+      "controls": [
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "Name",
+          "locked": true,
+          "name": "name",
+          "required": true,
+          "showInCms": true
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Create Date",
+          "locked": true,
+          "name": "create_date",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Last Updated",
+          "locked": true,
+          "name": "last_updated",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Publish Date",
+          "locked": true,
+          "name": "publish_date",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "select",
+          "help": "",
+          "hidden": false,
+          "label": "Level",
+          "locked": false,
+          "meta": {
+            "defaultValue": "First",
+            "options": [
+              {
+                "value": "First"
+              },
+              {
+                "value": "Second"
+              },
+              {
+                "value": "Third"
+              }
+            ]
+          },
+          "name": "level",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "number",
+          "help": "This is only required for first level menu items.",
+          "hidden": false,
+          "label": "Sort",
+          "locked": false,
+          "name": "sort",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "relation",
+          "help": "",
+          "hidden": false,
+          "label": "Page",
+          "locked": false,
+          "meta": {
+            "contentTypeId": "pages",
+            "isSingle": true,
+            "reverseName": "menus_page"
+          },
+          "name": "page",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "relation",
+          "help": "Before using this, make sure you've added the child menu items. You can reorder by dragging.\n",
+          "hidden": false,
+          "label": "Children",
+          "locked": false,
+          "meta": {
+            "contentTypeId": "menus",
+            "reverseName": "children"
+          },
+          "name": "children",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "instruction",
+          "help": "",
+          "hidden": false,
+          "label": "Optional Items",
+          "locked": false,
+          "name": "optional_items",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "help": "If your design supports it, this will be the menu title in mobile navigation.",
+          "hidden": false,
+          "label": "Mobile Title",
+          "locked": false,
+          "name": "mobile_title",
+          "placeholder": "",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "help": "This will override the link to any related page.",
+          "hidden": false,
+          "label": "URL",
+          "locked": false,
+          "name": "url",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Preview URL",
+          "locked": true,
+          "name": "preview_url",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Slug",
+          "locked": true,
+          "name": "slug",
+          "required": false,
+          "showInCms": false
+        }
+      ],
+      "individualMD5": "176c9f15ba6f8bfc267f3e854603aac4",
+      "listMD5": "e840ae0a7cc44add4affd6d0f98a44b8",
+      "name": "Menus",
+      "oneOff": false
+    },
+    "meta": {
+      "controls": [
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "Name",
+          "locked": true,
+          "name": "name",
+          "required": true,
+          "showInCms": true
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Create Date",
+          "locked": true,
+          "name": "create_date",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Last Updated",
+          "locked": true,
+          "name": "last_updated",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "tabular",
+          "hidden": false,
+          "label": "Configuration",
+          "locked": false,
+          "meta": {
+            "options": [
+              {
+                "value": "Key"
+              },
+              {
+                "value": "Value"
+              }
+            ]
+          },
+          "name": "configuration",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Preview URL",
+          "locked": true,
+          "name": "preview_url",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Slug",
+          "locked": true,
+          "name": "slug",
+          "required": false,
+          "showInCms": false
+        }
+      ],
+      "name": "Meta",
+      "oneOff": true,
+      "oneOffMD5": "a52f4ef178efeb203116f13ec3681301"
+    },
+    "pages": {
+      "controls": [
+        {
+          "controlType": "textfield",
+          "help": "This will appear in the CMS listing to denote this page. This will also be the fallback title of the page if alternatives are not provided.",
+          "hidden": false,
+          "label": "Name",
+          "locked": true,
+          "name": "name",
+          "required": true,
+          "showInCms": true
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Create Date",
+          "locked": true,
+          "name": "create_date",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Last Updated",
+          "locked": true,
+          "name": "last_updated",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Publish Date",
+          "locked": true,
+          "name": "publish_date",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textfield",
+          "help": "The primary title that will be displayed on your page.",
+          "hidden": false,
+          "label": "Title",
+          "locked": false,
+          "name": "title",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "wysiwyg",
+          "help": "",
+          "hidden": false,
+          "label": "Content",
+          "locked": false,
+          "meta": {
+            "image": true,
+            "link": true,
+            "quote": true,
+            "table": true,
+            "video": true
+          },
+          "name": "content",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "instruction",
+          "hidden": false,
+          "label": "Optional Items",
+          "locked": false,
+          "name": "optional_items",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "relation",
+          "help": "",
+          "hidden": false,
+          "label": "Featured Image",
+          "locked": false,
+          "meta": {
+            "contentTypeId": "images",
+            "isSingle": true,
+            "reverseName": "pages_features_image"
+          },
+          "name": "featured_image",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "relation",
+          "help": "Choose an optional gallery for this page. If your design supports multiple galleries per page, then drag to reorder. If your design only supports a single gallery, then additional galleries will be ignored.",
+          "hidden": false,
+          "label": "Galleries",
+          "locked": false,
+          "meta": {
+            "contentTypeId": "galleries",
+            "reverseName": "pages_galleries"
+          },
+          "name": "galleries",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "grid",
+          "controls": [
+            {
+              "controlType": "textfield",
+              "hidden": false,
+              "label": "Title",
+              "locked": false,
+              "name": "title",
+              "required": false,
+              "showInCms": true
+            },
+            {
+              "controlType": "wysiwyg",
+              "hidden": false,
+              "label": "Content",
+              "locked": false,
+              "meta": {
+                "image": true,
+                "link": true,
+                "quote": true,
+                "table": true,
+                "video": true
+              },
+              "name": "content",
+              "required": false,
+              "showInCms": true
+            },
+            {
+              "controlType": "instruction",
+              "hidden": false,
+              "label": "Optional Items",
+              "locked": false,
+              "name": "optional_items",
+              "required": false,
+              "showInCms": false
+            },
+            {
+              "controlType": "url",
+              "help": "Outbound URL (eg: http://google.com or /path/to/page.html)",
+              "hidden": false,
+              "label": "Link",
+              "locked": false,
+              "name": "link",
+              "required": false,
+              "showInCms": true
+            },
+            {
+              "controlType": "image",
+              "help": "Optional image to be used when rendering the block in your design.",
+              "hidden": false,
+              "label": "Image",
+              "locked": false,
+              "name": "image",
+              "required": false,
+              "showInCms": false
+            },
+            {
+              "controlType": "textarea",
+              "help": "Optional caption for block image.",
+              "hidden": false,
+              "label": "Caption",
+              "locked": false,
+              "name": "caption",
+              "required": false,
+              "showInCms": false
+            }
+          ],
+          "help": "These are optional blocks of content for the page. Your site design will dictate how that are used.",
+          "hidden": false,
+          "label": "Blocks",
+          "locked": false,
+          "name": "blocks",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "instruction",
+          "help": "These values are typically not necessary unless a design calls for them.",
+          "hidden": false,
+          "label": "Optional Titles",
+          "locked": false,
+          "name": "optional_titles",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "help": "A secondary title, if your design supports it.",
+          "hidden": false,
+          "label": "Subtitle",
+          "locked": false,
+          "name": "subtitle",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textfield",
+          "help": "If your design supports breadcrumbs, this will override the page title in the breadcrumb.",
+          "hidden": false,
+          "label": "Breadcrumb Title",
+          "locked": false,
+          "name": "breadcrumb_title",
+          "placeholder": "",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "help": "This will override the page title on mobile, if your design supports it.",
+          "hidden": false,
+          "label": "Mobile Title",
+          "locked": false,
+          "name": "mobile_title",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "layout",
+          "hidden": false,
+          "label": "Page Layout",
+          "locked": false,
+          "meta": {
+            "defaultValue": "",
+            "options": [
+              {
+                "label": "None",
+                "value": ""
+              },
+              {
+                "label": "3 Up",
+                "value": "layout.html"
+              }
+            ]
+          },
+          "name": "page_layout",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "instruction",
+          "help": "These are optional, but highly encouraged.",
+          "hidden": false,
+          "label": "SEO and Meta Information",
+          "locked": false,
+          "name": "seo_and_meta_information",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "SEO Title",
+          "locked": false,
+          "name": "seo_title",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textarea",
+          "hidden": false,
+          "label": "SEO Description",
+          "locked": false,
+          "name": "seo_description",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textarea",
+          "help": "Separate keywords/terms with a comma.",
+          "hidden": false,
+          "label": "SEO Keywords",
+          "locked": false,
+          "name": "seo_keywords",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "help": "Overrides SEO Title. Typically for providing a different title for social media.",
+          "hidden": false,
+          "label": "Meta Title",
+          "locked": false,
+          "name": "meta_title",
+          "placeholder": "",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "help": "Overrides SEO Description. Typically for providing a different title for social media.",
+          "hidden": false,
+          "label": "Meta Description",
+          "locked": false,
+          "name": "meta_description",
+          "placeholder": "",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Preview URL",
+          "locked": true,
+          "name": "preview_url",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Slug",
+          "locked": true,
+          "name": "slug",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "relation",
+          "hidden": false,
+          "label": "Menus (Page)",
+          "locked": false,
+          "meta": {
+            "contentTypeId": "menus",
+            "reverseName": "page"
+          },
+          "name": "menus_page",
+          "required": false,
+          "showInCms": false
+        }
+      ],
+      "individualMD5": "e100ebfc000dfabb1d575edfac7a33a5",
+      "listMD5": "91cc6ade35ef15facae22cf6d300d1f7",
+      "name": "Pages",
+      "oneOff": false
+    },
+    "widgets": {
+      "controls": [
+        {
+          "controlType": "textfield",
+          "hidden": false,
+          "label": "Name",
+          "locked": true,
+          "name": "name",
+          "required": true,
+          "showInCms": true
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Create Date",
+          "locked": true,
+          "name": "create_date",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Last Updated",
+          "locked": true,
+          "name": "last_updated",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "datetime",
+          "hidden": true,
+          "label": "Publish Date",
+          "locked": true,
+          "name": "publish_date",
+          "required": false,
+          "showInCms": false
+        },
+        {
+          "controlType": "wysiwyg",
+          "help": "",
+          "hidden": false,
+          "label": "Content",
+          "locked": false,
+          "meta": {
+            "image": true,
+            "link": true,
+            "quote": true,
+            "table": true,
+            "video": true
+          },
+          "name": "content",
+          "required": false,
+          "showInCms": true
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Preview URL",
+          "locked": true,
+          "name": "preview_url",
+          "required": true,
+          "showInCms": false
+        },
+        {
+          "controlType": "textfield",
+          "hidden": true,
+          "label": "Slug",
+          "locked": true,
+          "name": "slug",
+          "required": false,
+          "showInCms": false
+        }
+      ],
+      "individualMD5": "7a593408709070a1ce9ea5b9b132521c",
+      "listMD5": "4ca02f7e0b70c8a3a01f5286f554dfa3",
+      "name": "Widgets",
+      "oneOff": false
+    }
+  }
+}
